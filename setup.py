@@ -13,7 +13,7 @@ LONG_DESCRIPTION = 'Python package for simulation of Networked Control Systems (
 
 # Setting up
 setup(
-    name="vidstream",
+    name="ncsim",
     version=VERSION,
     author="NeuralNine (Florian Dedov)",
     author_email="<mail@neuralnine.com>",
