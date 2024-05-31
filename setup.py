@@ -21,7 +21,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=long_description,
     packages=find_packages(),
-    install_requires=['opencv-python', 'pyautogui', 'pyaudio'],
+    install_requires=['numpy'],
     keywords=['python', 'simulation', 'control', 'networks'],
     classifiers=[
         "Development Status :: 1 - Planning",
