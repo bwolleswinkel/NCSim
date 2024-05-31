@@ -8,5 +8,5 @@ import numpy as np
 # ------------ METHODS ------------
 
 def sim(a: float, b: float) -> float:
-    #: Return the sum
-    return a + b
+    #: Return the mean
+    return np.mean([a, b])
