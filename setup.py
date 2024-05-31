@@ -8,8 +8,8 @@ with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
 VERSION = '0.0.1'
-DESCRIPTION = 'Streaming video data via networks'
-LONG_DESCRIPTION = 'A package that allows to build simple streams of video, audio and camera data.'
+DESCRIPTION = 'Simulating NCSs'
+LONG_DESCRIPTION = 'Python package for simulation of Networked Control Systems (NCSs)'
 
 # Setting up
 setup(
