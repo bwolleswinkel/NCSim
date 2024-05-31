@@ -15,14 +15,14 @@ LONG_DESCRIPTION = 'Python package for simulation of Networked Control Systems (
 setup(
     name="ncsim",
     version=VERSION,
-    author="NeuralNine (Florian Dedov)",
-    author_email="<mail@neuralnine.com>",
+    author="Bart Wolleswinkel",
+    author_email="b.wolleswinkel@tudelft.nl",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,
     packages=find_packages(),
     install_requires=['opencv-python', 'pyautogui', 'pyaudio'],
-    keywords=['python', 'video', 'stream', 'video stream', 'camera stream', 'sockets'],
+    keywords=['python', 'simulation', 'control', 'networks'],
     classifiers=[
         "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
