@@ -1,0 +1,3 @@
+This package is a work-in-progress and under inactive development. 
+
+© 2026 Bart Wolleswinkel. All rights reserved.
